@@ -3,12 +3,22 @@
     "name": "letssee",
     "repo_url": "https://github.com/Riot-alt/letssee"
   },
-  "structure": "monorepo",
-  "apps": [
-    "api",
-    "web"
+  "features": [
+    {
+      "name": "should provide real time info of delivery partners",
+      "status": "planned"
+    }
   ],
-  "database": [],
-  "endpoints": [],
-  "features": []
+  "database": [
+    {
+      "table": "table primary",
+      "fields": []
+    }
+  ],
+  "endpoints": [
+    {
+      "method": "GET",
+      "route": "/route"
+    }
+  ]
 }
