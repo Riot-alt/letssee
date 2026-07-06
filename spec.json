@@ -13,6 +13,10 @@
     {
       "table": "table primary",
       "fields": []
+    },
+    {
+      "table": "delivery goods",
+      "fields": []
     }
   ],
   "endpoints": [
