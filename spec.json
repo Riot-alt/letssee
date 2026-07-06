@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "letssee",
+    "repo_url": "https://github.com/Riot-alt/letssee"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
